@@ -1,0 +1,2 @@
+#!/bin/bash
+pip install grab, PyQt4, pycurl, lxml
